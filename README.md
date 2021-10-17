@@ -11,7 +11,7 @@ draws a nozzle according to Dobrovolsky's "Liquid propellant rocket engines", pa
 8. run all cells to the end;
 9. enjoy
 
-
+comment on Dobrovolsky's p.46: the graph is also attached to this repository.
 comment on points_finder:
 it "builds" the construction lines and then checks their overlap points. for each line the overlap point with the lowest y is chosen.
 works better with larger n value
